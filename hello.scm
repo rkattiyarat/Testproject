@@ -1,1 +1,2 @@
-"This is Rose"
+(define (a)(display "This is Rose"))
+
